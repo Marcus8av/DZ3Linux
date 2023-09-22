@@ -1,0 +1,4 @@
+folderin: /home/user/test
+folderout: /home/user/out
+count: 5
+bs: 1M
